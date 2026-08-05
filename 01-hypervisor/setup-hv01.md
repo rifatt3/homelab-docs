@@ -37,7 +37,7 @@ External Switch ab Phase 2/3.
 
 ## Nächste Schritte
 
-- [ ] Hyper-V-Rolle installieren
-- [ ] Internal vSwitch `LabSwitch`
-- [ ] Ordnerstruktur C:\Lab\ISOs, C:\Lab\VMs
-- [ ] VM DC01 (Domain Controller, Domäne lab.local)
+- [x] Hyper-V-Rolle installieren
+- [x] Internal vSwitch `LabSwitch`
+- [x] Ordnerstruktur C:\Lab\ISOs, C:\Lab\VMs
+- [x] VM DC01 (Domain Controller, Domäne lab.local)
