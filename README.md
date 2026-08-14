@@ -1,17 +1,18 @@
 # Hybrid Cloud Homelab
 
 Praxisbegleitung zu meinem Weiterbildungspfad (AZ-900 → AZ-104 → MS-102):
-Schrittweiser Aufbau einer KMU-typischen Microsoft-Umgebung – von On-Premises
-AD bis M365/Intune – auf eigener Hardware (Hyper-V) und in Azure.
+Schrittweiser Aufbau einer KMU-typischen Microsoft-Umgebung – von On-Premises AD
+bis M365/Intune – auf eigener Hardware (Hyper-V) und in Azure.
 
-## Roadmap
+## Bereiche
 
-| Phase | Inhalt | Status |
+| Bereich | Inhalt | Status |
 |---|---|---|
-| 1 | Hypervisor-Host (Windows Server 2025, Hyper-V) | ✅ erledigt |
-| 2 | Active Directory, GPO, Fileservices | 🔄 geplant |
-| 3 | Hybrid Identity (Entra Connect, Conditional Access) | ⬜ geplant |
-| 4 | M365-Tenant, Intune, Defender | ⬜ geplant |
-| 5 | Capstone: Fiktive KMU-Migration On-Prem → Hybrid | ⬜ geplant |
+| 01 Hypervisor | Windows Server 2025, Hyper-V, vSwitch | ✅ in Betrieb |
+| 02 Active Directory | AD DS, DNS, OU-Struktur, GPO | 🔄 DC produktiv, OU/GPO in Arbeit |
+| 03 Azure | Tenant, Entra-Identitäten, Governance | 🔄 in Arbeit |
+| 04 Hybrid Identity | Entra Connect, Conditional Access | ⬜ geplant |
+| 05 M365 / Intune | Exchange Online, Intune, Defender | ⬜ geplant |
+| — Capstone | Fiktive KMU-Migration On-Prem → Hybrid | ⬜ geplant |
 
 Dokumentiert im Runbook-Stil: Entscheidungen, Stolpersteine, Wiederholbarkeit.
