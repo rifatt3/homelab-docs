@@ -1,6 +1,6 @@
 # Hybrid Cloud Homelab
 
-Praxisbegleitung zu meinem Weiterbildungspfad (AZ-900 → AZ-104 → MS-102):
+Praxisbegleitung zu meinem Weiterbildungspfad (AZ-900 → MS-102 → AZ-104):
 Schrittweiser Aufbau einer KMU-typischen Microsoft-Umgebung – von On-Premises AD
 bis M365/Intune – auf eigener Hardware (Hyper-V) und in Azure.
 
